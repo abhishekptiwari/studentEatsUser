@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "187971674789",
+    "project_id": "studenteats-40095",
+    "storage_bucket": "studenteats-40095.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187971674789:android:d83006a906efe229a0a34c",
+        "android_client_info": {
+          "package_name": "com.studenteats.customer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEfjEvibg7en3v4XZGbywlHgKmum1mXec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
